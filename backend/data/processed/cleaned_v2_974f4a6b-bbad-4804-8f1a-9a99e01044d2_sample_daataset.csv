@@ -1,0 +1,10 @@
+﻿ID,Name,Age,Email,JoinDate,Salary
+1,John,25.0,John@Gmail.Com,2026-01-10,50000
+2,Sara,29.0,Sara@Gmail.Com,10/02/2026,62000
+3,Mike,29.0,Mikegmail.Com,2026-03-15,58000
+4,Anu,35.875,Anu@Gmail.Com,2026-04-01,70000
+5,Ravi,31.0,Ravi@Gmail.Com,2026/05/20,63000
+6,Priya,27.0,Priya@Gmail,2026-06-12,65000
+7,Kiran,20.875,Kiran@Gmail.Com,2026-07-10,55000
+8,Teja,30.0,,07-15-2026,60000
+9,Suresh,28.0,Suresh@Gmail.Com,Invalid_Date,57000

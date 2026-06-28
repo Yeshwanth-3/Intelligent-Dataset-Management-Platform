@@ -1,0 +1,16 @@
+transaction_id,timestamp,customer_age,purchase_amount,category,region,notes
+TX1001,2024-01-01,28,45.50,Electronics,North,Standard transaction
+TX1002,2024-01-01,,1500.00,Electronics,North,Missing age
+TX1003,2024-01-02,35,-50.00,Clothing,South,Negative amount error
+TX1004,2024-01-02,42,120.00,Home,East,
+TX1005,2024-01-03,999,85.50,Electronics,West,Age outlier 999
+TX1006,2024-01-03,31,50000.00,Electronics,North,Extreme outlier amount (Whale)
+TX1007,2024-01-04,31,50000.00,Electronics,North,Duplicate of whale transaction
+TX1008,2024-01-04,25,three_hundred,Clothing,East,Type mismatch (string)
+TX1009,2024-01-05,29,65.00,Unknown,West,Category issue
+TX1010,2024-01-05,45,210.00,Home,South,
+TX1011,2024-01-06,31,50000.00,Electronics,North,Another whale duplicate
+TX1012,2024-01-06,18,12.50,Books,East,
+TX1013,2024-01-07,65,5.00,Books,West,Lower outlier
+TX1014,2024-01-07,22,450.00,Clothing,North,
+TX1015,2024-01-08,55,120000.00,Home,South,Extreme outlier (Suspicious)

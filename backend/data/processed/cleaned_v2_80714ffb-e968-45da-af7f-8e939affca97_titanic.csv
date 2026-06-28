@@ -1,0 +1,892 @@
+﻿PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1.0,0.0,3.0,"Braund, Mr. Owen Harris",Male,22.0,0.0,0.0,7634.0,7.25,B18,S
+2.0,0.0,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,38.0,0.0,0.0,7634.0,53.2187,C85,C
+3.0,0.0,3.0,"Heikkinen, Miss. Laina",Female,26.0,0.0,0.0,7634.0,7.925,B18,S
+4.0,0.0,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,35.0,0.0,0.0,113803.0,53.1,C123,S
+5.0,0.0,3.0,"Allen, Mr. William Henry",Male,35.0,0.0,0.0,373450.0,8.05,B18,S
+6.0,0.0,3.0,"Moran, Mr. James",Male,18.2,0.0,0.0,330877.0,8.4583,B18,Q
+7.0,0.0,1.0,"Mccarthy, Mr. Timothy J",Male,42.0,0.0,0.0,17463.0,51.8667,E46,S
+8.0,0.0,3.0,"Palsson, Master. Gosta Leonard",Male,13.200000000000001,0.0,0.0,349909.0,21.075,B18,S
+9.0,0.0,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,27.0,0.0,0.0,347742.0,11.1333,B18,S
+10.0,0.0,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",Female,14.0,0.0,0.0,237736.0,30.0708,B18,C
+11.0,0.0,3.0,"Sandstrom, Miss. Marguerite Rut",Female,13.200000000000001,0.0,0.0,7634.0,16.7,G6,S
+12.0,0.0,1.0,"Bonnell, Miss. Elizabeth",Female,42.0,0.0,0.0,113783.0,26.55,C103,S
+13.0,0.0,3.0,"Saundercock, Mr. William Henry",Male,20.0,0.0,0.0,7634.0,8.05,B18,S
+14.0,0.0,3.0,"Andersson, Mr. Anders Johan",Male,39.0,0.0,0.0,347082.0,31.275,B18,S
+15.0,0.0,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",Female,14.0,0.0,0.0,350406.0,7.8542,B18,S
+16.0,0.0,2.0,"Hewlett, Mrs. (Mary D Kingcome)",Female,42.0,0.0,0.0,248706.0,16.0,B18,S
+17.0,0.0,3.0,"Rice, Master. Eugene",Male,13.200000000000001,0.0,0.0,382652.0,29.125,B18,Q
+18.0,0.0,2.0,"Williams, Mr. Charles Eugene",Male,18.2,0.0,0.0,244373.0,13.0,B18,S
+19.0,0.0,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,31.0,0.0,0.0,345763.0,18.0,B18,S
+20.0,0.0,3.0,"Masselmani, Mrs. Fatima",Female,18.2,0.0,0.0,2649.0,7.225,B18,C
+21.0,0.0,2.0,"Fynney, Mr. Joseph J",Male,35.0,0.0,0.0,239865.0,21.0,B18,S
+22.0,0.0,2.0,"Beesley, Mr. Lawrence",Male,34.0,0.0,0.0,248698.0,13.0,D35,S
+23.0,0.0,3.0,"Mcgowan, Miss. Anna Annie""""",Female,15.0,0.0,0.0,330923.0,8.0292,B18,Q
+24.0,0.0,1.0,"Sloper, Mr. William Thompson",Male,28.0,0.0,0.0,113788.0,35.5,A6,S
+25.0,0.0,3.0,"Palsson, Miss. Torborg Danira",Female,13.200000000000001,0.0,0.0,349909.0,21.075,B18,S
+26.0,0.0,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,21.0,0.0,0.0,347077.0,11.5,B18,S
+27.0,0.0,3.0,"Emir, Mr. Farred Chehab",Male,18.2,0.0,0.0,2631.0,7.225,B18,C
+28.0,0.0,1.0,"Fortune, Mr. Charles Alexander",Male,19.0,0.0,0.0,19950.0,53.2187,C23 C25 C27,S
+29.0,0.0,3.0,"Crease, Mr. Ernest James",Male,19.0,0.0,0.0,7634.0,8.05,B18,S
+30.0,0.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",Male,42.0,0.0,0.0,27042.0,30.0,A23,S
+31.0,0.0,3.0,"Braund, Mr. John Henry William",Male,18.2,0.0,0.0,347541.0,8.05,B18,S
+32.0,0.0,1.0,"Parkinson, Mrs. John (Gameni Wrentham)",Female,24.4,0.0,0.0,112052.0,26.0,F38,S
+33.0,0.0,3.0,"Dale, Miss. Mercia Ann Marcia""""",Female,14.0,0.0,0.0,4119.0,8.05,B18,S
+34.0,0.0,2.0,"Dougan, Mr. Neal",Male,28.0,0.0,0.0,226244.0,13.0,B18,S
+35.0,0.0,3.0,"Wasgestein, Mr. Willy",Male,17.8,0.0,0.0,3160.5,8.05,B18,S
+36.0,0.0,1.0,"Horton, Mrs. Victor Emil (Minnie Weld)",Female,35.0,0.0,0.0,113784.0,52.0,93,S
+37.0,0.0,2.0,"Hammondsworth, Mr. Ernest Henry",Male,16.0,0.0,0.0,248720.0,8.0292,B18,S
+38.0,0.0,3.0,"Stamm, Mr. Heinrich",Male,30.0,0.0,0.0,433450.0,8.05,B18,S
+39.0,0.0,3.0,"Whitney, Mr. Frederick C",Male,23.0,0.0,0.0,24160.0,53.2187,B18,C
+40.0,0.0,1.0,"Campbell, Mrs. William (Oliviamary Myers)",Female,29.0,0.0,0.0,7634.0,53.2187,E8,C
+41.0,0.0,3.0,"Persson, Mr. Fabian Goesta",Male,16.8,0.0,0.0,347054.0,7.75,B18,S
+42.0,0.0,3.0,"Skoog, Miss. Margit Elizabeth",Female,13.200000000000001,0.0,0.0,347088.0,27.9,B18,S
+43.0,0.0,1.0,"Bonnell, Miss. Caroline",Female,30.0,0.0,0.0,7634.0,46.0,C92,S
+44.0,0.0,3.0,"Ilmakangas, Miss. Ida Livija",Female,19.4,0.0,0.0,349925.0,13.0,B18,S
+45.0,0.0,2.0,"Ismay, Mr. Joseph Bruce",Male,42.0,0.0,0.0,112058.0,26.55,C92,S
+46.0,0.0,2.0,"Harris, Mr. Henry Birkhardt",Male,42.0,0.0,0.0,8154.0,53.2187,B18,S
+47.0,0.0,3.0,"Svensson, Mr. Johan Cervin",Male,24.0,0.0,0.0,7538.0,8.05,B18,S
+48.0,0.0,2.0,"Culm, Mr. Sidney",Male,18.0,0.0,0.0,239853.0,21.0,B18,S
+49.0,0.0,3.0,"Andersson, Master. Sigvard Harald Elias",Male,13.200000000000001,0.0,0.0,347082.0,31.275,B18,S
+50.0,0.0,3.0,"Andreasson, Mr. Paul Edvin",Male,20.0,0.0,0.0,347466.0,7.8542,B18,S
+51.0,0.0,1.0,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Female,42.0,0.0,0.0,24856.0,53.2187,E24,S
+52.0,0.0,2.0,"Ferguson, Mr. James",Male,21.6,0.0,0.0,36424.0,13.0,B18,S
+53.0,0.0,1.0,"Palsson, Master. Gosta Leonard",Male,18.0,0.0,0.0,7634.0,53.2187,E31,C
+54.0,0.0,2.0,"Lobb, Mrs. William Arthur (Cordelia K Stokes)",Female,30.0,0.0,0.0,250651.0,24.0,B18,S
+55.0,0.0,3.0,"Moen, Mr. Sigurd Hansen",Male,21.8,0.0,0.0,348123.0,7.75,B18,S
+56.0,0.0,3.0,"Staneff, Mr. Ivan",Male,20.8,0.0,0.0,349208.0,7.8958,B18,S
+57.0,0.0,2.0,"Goree, Mr. Edward",Male,34.0,0.0,0.0,113501.0,21.0,B18,S
+58.0,0.0,1.0,"Gee, Mr. Chi Po",Male,31.8,0.0,0.0,7634.0,29.875,C97,C
+59.0,0.0,3.0,"Lundstrom, Mr. Thure Maanwel",Male,18.6,0.0,0.0,350403.0,7.7958,B18,S
+60.0,0.0,1.0,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,42.0,0.0,0.0,111361.0,53.2187,B18,C
+61.0,0.0,3.0,"Kassem, Mr. Fared",Male,20.6,0.0,0.0,2961.0,7.2292,B18,C
+62.0,0.0,3.0,"Farrell, Mrs. James W (Margaret Maggie"" Tobin)""",Female,30.0,0.0,0.0,349236.0,7.75,B18,S
+63.0,0.0,1.0,"Wheadon, Mr. Edward H",Male,42.0,0.0,0.0,113760.0,34.375,C99,C
+64.0,0.0,1.0,"Van Der Donckt, Mrs. Eduarda Maria (Josepha Elisabeth Pfeffinger)",Female,30.0,0.0,0.0,111361.0,53.2187,B18,S
+65.0,0.0,3.0,"Zabour, Miss. Hileni",Female,19.4,0.0,0.0,2665.0,14.4542,B18,C
+66.0,0.0,3.0,"Carbonell, Miss. Noemie",Female,13.200000000000001,0.0,0.0,349730.0,15.9,B18,C
+67.0,0.0,1.0,"Andreasson, Mr. Gustaf Julius",Male,20.0,0.0,0.0,7634.0,7.925,B18,C
+68.0,0.0,2.0,"Chaffee, Mr. Nathaniel",Male,31.0,0.0,0.0,240276.0,21.0,B18,C
+69.0,0.0,1.0,"Cavendish, Mrs. Spencer (Lucile Polk Brown)",Female,30.4,0.0,0.0,19877.0,53.2187,C46,C
+70.0,0.0,3.0,"Ilmakangas, Master. Vytautas",Male,13.200000000000001,0.0,0.0,349925.0,39.6875,B18,S
+71.0,0.0,2.0,"Allen, Miss. Elisabeth Walton",Female,13.200000000000001,0.0,0.0,28404.0,21.075,B18,S
+72.0,0.0,2.0,"Geiger, Miss. Amelia Millie""""",Female,40.0,0.0,0.0,250649.0,15.85,B18,C
+73.0,0.0,2.0,"Madill, Miss. Georgette Alexandra",Female,32.2,0.0,0.0,250644.0,10.5,B18,S
+74.0,0.0,3.0,"Dick, Mr. William Kenneth",Male,22.4,0.0,0.0,209188.0,7.75,B18,S
+75.0,0.0,2.0,"Frick, Mrs. Mark (Lily May Heinemann)",Female,20.6,0.0,0.0,230136.0,0.0,F38,S
+76.0,0.0,3.0,"Gagliardi, Mr. Gaspare",Male,13.200000000000001,0.0,0.0,2665.0,11.2417,B18,C
+77.0,0.0,2.0,"Selanec, Mr. Jean De",Male,30.4,0.0,0.0,250644.0,10.5,B18,S
+78.0,0.0,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Female,35.0,0.0,0.0,19943.0,53.2187,C93,C
+79.0,0.0,3.0,"Billiard, Mr. James Wilson",Male,23.0,0.0,0.0,340364.0,7.75,B18,S
+80.0,0.0,3.0,"Rogers, Miss. Anna 'Annie'",Female,18.0,0.0,0.0,16487.0,8.05,B18,S
+81.0,0.0,2.0,"Müller, Mr. Eino Akseli",Male,22.4,0.0,0.0,7633.0,8.6625,B18,S
+82.0,0.0,3.0,"Andreasson, Mrs. Albert (Alli Gunnarsson Brogren)",Female,18.0,0.0,0.0,347466.0,7.8542,B18,S
+83.0,0.0,3.0,"Venger, Mr. Danio",Male,22.4,0.0,0.0,350416.0,7.8542,B18,S
+84.0,0.0,3.0,"Asplund, Master. Clarence Gustaf Julius",Male,13.200000000000001,0.0,0.0,347077.0,31.3875,B18,S
+85.0,0.0,2.0,"Taussig, Dr. Emil",Male,42.0,0.0,0.0,250641.0,27.0,B18,S
+86.0,0.0,3.0,"Crease, Miss. Catherina Maria",Female,19.0,0.0,0.0,7634.0,8.05,B18,S
+87.0,0.0,1.0,"Coxon, Mr. Daniel William",Male,42.0,0.0,0.0,17457.0,47.1,B18,S
+88.0,0.0,2.0,"Chevreul, Mrs. Paul (Emmelia Hermine De Chatellier De Pommelles)",Female,42.0,0.0,0.0,7634.0,53.2187,B18,C
+89.0,0.0,3.0,"Passon, Miss. Emma",Female,16.0,0.0,0.0,349218.0,7.8542,B18,S
+90.0,0.0,1.0,"Steffanson, Mr. Bjornstrom",Male,21.0,0.0,0.0,7634.0,27.7208,B18,C
+91.0,0.0,3.0,"Proley, Mr. Horst Arnold Konrad",Male,22.4,0.0,0.0,349268.0,7.8958,B18,S
+92.0,0.0,3.0,"Nylandh, Miss. Kristina Johnsone",Female,22.4,0.0,0.0,350415.0,7.8542,B18,S
+93.0,0.0,2.0,"Aubart, Mme. Leontine Pauline",Female,24.0,0.0,0.0,7634.0,34.4208,B18,C
+94.0,0.0,1.0,"Becker, Mrs. Marion (Marion Chard)",Female,42.0,0.0,0.0,11382.0,53.2187,F33,S
+95.0,0.0,3.0,"Ada, Mr. Ernest Abram",Male,22.4,0.0,0.0,350043.0,7.75,B18,S
+96.0,0.0,1.0,"Greenfield, Mrs. William Bertram (Frances Mary Ridley)",Female,36.4,0.0,0.0,7634.0,53.2187,D10 D12,S
+97.0,0.0,2.0,"Oakes, Sir. Basil E. M.",Male,24.4,0.0,0.0,111269.0,26.55,B18,S
+98.0,0.0,1.0,"Silvey, Mrs. William Baird (Alice Munro Witherspoon)",Female,40.6,0.0,0.0,7634.0,53.2187,B18,C
+99.0,0.0,3.0,"Sage, Mr. Frederick",Male,42.0,0.0,0.0,7634.0,53.2187,B18,S
+100.0,0.0,3.0,"Rekic, Mr. Tido",Male,38.0,0.0,0.0,349222.0,7.8542,B18,S
+101.0,0.0,3.0,"Moran, Miss. Bertha",Female,24.4,0.0,0.0,371110.0,24.15,B18,Q
+102.0,0.0,2.0,"Root, Mr. Frederick Giles William",Male,22.4,0.0,0.0,228401.0,0.0,B18,S
+103.0,0.0,1.0,"Weisz, Mr. Leopold",Male,28.0,0.0,0.0,7634.0,40.0,A17,C
+104.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,22.4,0.0,0.0,8159.0,15.55,B18,S
+105.0,0.0,2.0,"Newsom, Miss. Helen Monypeny",Female,22.0,0.0,0.0,29108.0,21.0,B18,S
+106.0,0.0,2.0,"Asplund, Mr. Johan Knut",Male,13.200000000000001,0.0,0.0,347077.0,27.9,B18,S
+107.0,0.0,3.0,"Duran Y More, Miss. Asuncion",Female,27.0,0.0,0.0,54373.0,7.0458,B18,S
+108.0,0.0,2.0,"Lamore, Mrs. Amelia Polly""""",Female,28.8,0.0,0.0,250644.0,21.0,B18,S
+109.0,0.0,3.0,"Becker, Master. Richard F.",Male,13.200000000000001,0.0,0.0,11382.0,20.525,F38,S
+110.0,0.0,3.0,"Simmons, Mr. John",Male,23.2,0.0,0.0,370370.0,7.75,B18,S
+111.0,0.0,1.0,"Christy, Miss. Ann Smith",Female,28.0,0.0,0.0,13495.0,23.45,B18,S
+112.0,0.0,3.0,"Windelov, Mr. Einar",Male,21.0,0.0,0.0,350153.0,7.65,B18,S
+113.0,0.0,3.0,"Madsen, Mr. Fridtjof Arne",Male,24.0,0.0,0.0,8379.0,7.75,B18,S
+114.0,0.0,3.0,"De Messiel, Miss. Emma",Female,23.2,0.0,0.0,345572.0,7.75,B18,S
+115.0,0.0,1.0,"Chamberlain, Mr. William Henry",Male,30.0,0.0,0.0,7634.0,53.2187,B18,C
+116.0,0.0,1.0,"Levy, Mrs. Gustave Joseph (Adele Achem)",Female,35.0,0.0,0.0,7634.0,53.2187,D35,C
+117.0,0.0,3.0,"Wege, Mr. Christian",Male,24.2,0.0,0.0,7534.0,9.5,B18,S
+118.0,0.0,1.0,"Nourney, Mr. Alfred (Baron Von Drachsteyn"")""",Male,20.0,0.0,0.0,7634.0,53.2187,B18,S
+119.0,0.0,3.0,"Storey, Mr. Thomas",Male,42.0,0.0,0.0,3701.0,7.1292,B18,C
+120.0,0.0,2.0,"Shin, Mr. Lain",Male,21.8,0.0,0.0,248740.0,0.0,B18,S
+121.0,0.0,3.0,"Watt, Miss. Bertha",Female,22.8,0.0,0.0,330844.0,15.85,B18,S
+122.0,0.0,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",Female,42.0,0.0,0.0,36928.0,53.2187,C7,S
+123.0,0.0,1.0,"Widener, Mr. George Dunton",Male,42.0,0.0,0.0,113503.0,53.2187,C82,C
+124.0,0.0,1.0,"Bidois, Mr. Jean Baptiste",Male,31.2,0.0,0.0,17439.0,53.2187,B18,C
+125.0,0.0,3.0,"De Brito, Miss. Maria Elvira",Female,20.0,0.0,0.0,330976.0,7.8292,B18,C
+126.0,0.0,2.0,"Stead, Mr. William Thomas",Male,42.0,0.0,0.0,113514.0,26.0,B18,S
+127.0,0.0,2.0,"Parrish, Mrs. (Lutie Davis)",Female,42.0,0.0,0.0,230433.0,26.0,B18,S
+128.0,0.0,3.0,"Smith, Mr. Thomas",Male,21.8,0.0,0.0,370372.0,7.75,B18,S
+129.0,0.0,3.0,"Asplund, Master. Filip Oscar",Male,13.200000000000001,0.0,0.0,347077.0,27.9,B18,S
+130.0,0.0,2.0,"Stack, Mr. Thomas",Male,42.0,0.0,0.0,28213.0,26.0,B18,S
+131.0,0.0,1.0,"Fleurot, Mrs. Solomon (Marthe Eluise Colas)",Female,25.2,0.0,0.0,11926.0,40.125,B18,C
+132.0,0.0,3.0,"Renouf, Mrs. Peter Henry (Lillian Jeffereys)",Female,24.8,0.0,0.0,31027.0,21.075,B18,S
+133.0,0.0,3.0,"Juul, Mr. Niels Henrik Johannsen",Male,21.8,0.0,0.0,350415.0,7.8542,B18,S
+134.0,0.0,3.0,"Dantcheff, Mr. Ristiu",Male,25.0,0.0,0.0,349222.0,7.8542,B18,S
+135.0,0.0,1.0,"Beavan, Mr. William Thomas",Male,24.8,0.0,0.0,2912.0,26.0,B18,C
+136.0,0.0,3.0,"Karaic, Mr. Milan",Male,26.4,0.0,0.0,349246.0,7.8542,B18,S
+137.0,0.0,1.0,"Lindqvist, Mr. Eino William",Male,20.0,0.0,0.0,7634.0,53.2187,B18,C
+138.0,0.0,3.0,"Sage, Miss. Dorothy Edith Dolly""""",Female,34.2,0.0,0.0,7634.0,53.2187,B18,S
+139.0,0.0,3.0,"Turja, Miss. Anna Sofia",Female,18.0,0.0,0.0,4135.0,8.3625,B18,S
+140.0,0.0,1.0,"Baxter, Mr. Quentin Paul",Male,24.0,0.0,0.0,7634.0,29.7,B38,C
+141.0,0.0,3.0,"Andersson, Miss. Ellen Viktoria",Female,17.4,0.0,0.0,347082.0,31.275,B18,S
+142.0,0.0,2.0,"Edwardsson, Mr. Gustaf Axel",Male,42.0,0.0,0.0,246414.0,5.0,B18,S
+143.0,0.0,3.0,"Sawyer, Mr. Frederick Leslie William",Male,24.0,0.0,0.0,342826.0,8.05,B18,S
+144.0,0.0,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,40.0,0.0,0.0,7546.0,9.475,B18,S
+145.0,0.0,2.0,"Sytala, Mr. Lauri",Male,22.0,0.0,0.0,345239.0,12.275,B18,S
+146.0,0.0,1.0,"Geiger, Mr. Mattson Ayouse",Male,30.0,0.0,0.0,11755.0,53.2187,B18,C
+147.0,0.0,2.0,"Ilett, Miss. Bertha",Female,17.0,0.0,0.0,7634.0,18.75,B18,S
+148.0,0.0,3.0,"Behind, Mr. Oscar",Male,27.2,0.0,0.0,8167.0,7.75,B18,S
+149.0,0.0,1.0,"Goldschmidt, Mr. George B.",Male,30.8,0.0,0.0,7634.0,30.6958,B18,C
+150.0,0.0,2.0,"Greenfield, Mr. William Bertram",Male,35.8,0.0,0.0,7634.0,53.2187,B18,C
+151.0,0.0,3.0,"Nilsson, Mr. Åke Andreas",Male,27.2,0.0,0.0,350410.0,7.75,B18,S
+152.0,0.0,3.0,"Sjöstedt, Mr. Ernst Adolf",Male,28.2,0.0,0.0,7634.0,15.55,B18,S
+153.0,0.0,1.0,"Myles, Mr. Thomas Francis",Male,42.0,0.0,0.0,113773.0,51.8625,E24,C
+154.0,0.0,3.0,"Sofi, Mr. Hajji Mohamed",Male,29.4,0.0,0.0,2680.0,7.225,B18,C
+155.0,0.0,3.0,"Assaf, Mr. Mariana",Male,28.0,0.0,0.0,2692.0,8.05,B18,S
+156.0,0.0,3.0,"Francke, Mr. Tryggve",Male,28.6,0.0,0.0,347565.0,20.575,B18,S
+157.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,32.2,0.0,0.0,7634.0,7.8542,B18,S
+158.0,0.0,3.0,"Kink, Mrs. (Maria) Winna Saskia Lobb",Female,28.6,0.0,0.0,350367.0,24.15,B18,Q
+159.0,0.0,3.0,"Smyth, Miss. Julia",Female,28.6,0.0,0.0,330280.0,7.6292,B18,Q
+160.0,0.0,2.0,"Toufik, Mr. Nakli",Male,27.0,0.0,0.0,2626.0,14.4583,B18,C
+161.0,0.0,3.0,"Kalvik, Master. Harald Nils Reiersen",Male,28.6,0.0,0.0,8159.0,21.0792,B18,S
+162.0,0.0,3.0,"O'Sullivan, Miss. Bridget Mary",Female,25.6,0.0,0.0,330979.0,7.6292,B18,Q
+163.0,0.0,3.0,"Strom, Miss. Telma Matilda",Female,13.200000000000001,0.0,0.0,347054.0,7.75,B18,S
+164.0,0.0,3.0,"Crosby, Miss. Harriet R",Female,28.6,0.0,0.0,112901.0,23.5,B18,S
+165.0,0.0,2.0,"Andersson, Mr. Anders Johan",Male,37.0,0.0,0.0,350034.0,21.05,B18,S
+166.0,0.0,3.0,"Bakke, Mr. Karl",Male,25.8,0.0,0.0,8520.0,8.05,B18,S
+167.0,0.0,3.0,"Green, Mr. Rodney",Male,25.8,0.0,0.0,3450.0,21.075,B18,C
+168.0,0.0,3.0,"Farthing, Mr. John",Male,37.4,0.0,0.0,7634.0,53.2187,B18,C
+169.0,0.0,3.0,"Strandberg, Miss. Ida Sofia",Female,28.6,0.0,0.0,7634.0,9.5,B18,S
+170.0,0.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",Male,42.0,0.0,0.0,27042.0,30.0,B18,S
+171.0,0.0,3.0,"Hagardon, Mr. John",Male,29.2,0.0,0.0,350033.0,7.75,B18,S
+172.0,0.0,3.0,"Pulbaski, Mr. Frank J",Male,34.2,0.0,0.0,113798.0,8.05,B18,S
+173.0,0.0,2.0,"Palin, Miss. Doris",Female,22.0,0.0,0.0,248702.0,23.0,B18,S
+174.0,0.0,1.0,"Pulbaski, Mr. Tadeáš",Male,34.0,0.0,0.0,113798.0,26.55,B18,S
+175.0,0.0,2.0,"Sedgwick, Mr. Charles Frederick William",Male,25.8,0.0,0.0,248759.0,21.0,B18,S
+176.0,0.0,3.0,"Niskanen, Mr. Juha",Male,39.0,0.0,0.0,3101295.0,7.925,B18,S
+177.0,0.0,3.0,"Smith, Mrs. (Rosa)",Female,25.8,0.0,0.0,382652.0,8.05,B18,S
+178.0,0.0,2.0,"Asplund, Master. Edvin Ossian Felix",Male,13.200000000000001,0.0,0.0,347077.0,27.9,B18,S
+179.0,0.0,3.0,"Flick, Mr. Tryggve William",Male,35.8,0.0,0.0,8520.0,8.05,B18,S
+180.0,0.0,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,33.0,0.0,0.0,7635.0,46.9,B18,S
+181.0,0.0,2.0,"Soholt, Mr. Peter Andreas Lauritz Andersen",Male,19.0,0.0,0.0,348124.0,7.65,B18,S
+182.0,0.0,2.0,"Lannom, Miss. Mary",Female,38.0,0.0,0.0,250649.0,21.075,B18,C
+183.0,0.0,1.0,"Gould, Mr. Jay Henry",Male,24.0,0.0,0.0,112059.0,26.55,B18,S
+184.0,0.0,3.0,"Ashby, Miss. Constance Dorothy",Female,35.8,0.0,0.0,304879.0,24.15,B18,Q
+185.0,0.0,1.0,"Slayter, Mrs. Houghton William (Elizabeth Elmore Hart)",Female,42.0,0.0,0.0,11755.0,53.2187,B18,C
+186.0,0.0,3.0,"Kreutzmann, Mr. Theodor",Male,29.6,0.0,0.0,8159.0,7.7958,B18,S
+187.0,0.0,1.0,"Duff-Gordon, Mr. Cosmo Edmund",Male,42.0,0.0,0.0,11755.0,26.55,A20,C
+188.0,0.0,3.0,"Asplund, Miss. Lillian Gertrud",Female,13.200000000000001,0.0,0.0,347077.0,31.3875,B18,S
+189.0,0.0,2.0,"Becker, Mrs. Julius (Sallie)",Female,42.0,0.0,0.0,7634.0,41.5842,B18,C
+190.0,0.0,1.0,"Dirkes, Mrs. Henry (Eleanor Elizabeth Lincoln Gould)",Female,35.8,0.0,0.0,112058.0,49.5042,B18,C
+191.0,0.0,3.0,"Doling, Miss. Elsie",Female,18.0,0.0,0.0,231919.0,23.0,B18,S
+192.0,0.0,2.0,"Watt, Mrs. James (Elizabeth Bessie"" Inglis Milne)""",Female,35.0,0.0,0.0,9068.0,36.0,B18,S
+193.0,0.0,3.0,"Pulbaski, Master. Waclaw",Male,35.8,0.0,0.0,113798.0,8.6625,B18,S
+194.0,0.0,1.0,"Frick, Mrs. Mark (Lily May Heinemann)",Female,13.200000000000001,0.0,0.0,230136.0,27.75,B18,S
+195.0,0.0,3.0,"Nilsson, Master. Bertil",Male,29.2,0.0,0.0,347066.0,21.075,B18,S
+196.0,0.0,3.0,"Nilsson, Miss. Brita Emilia",Female,29.2,0.0,0.0,347066.0,21.075,B18,S
+197.0,0.0,2.0,"Rosblom, Mr. Viktor Richard",Male,18.0,0.0,0.0,370129.0,20.2125,B18,C
+198.0,0.0,1.0,"Sagesser, Mr. William",Male,42.0,0.0,0.0,7634.0,53.2187,B18,C
+199.0,0.0,3.0,"Greenfield, Mr. William",Male,23.0,0.0,0.0,250651.0,13.0,B18,S
+200.0,0.0,2.0,"Doling, Mr. Thomas",Male,26.0,0.0,0.0,231919.0,14.0,B18,S
+201.0,0.0,2.0,"Kalvik, Mr. Johannes Halvorsen",Male,42.0,0.0,0.0,250643.0,14.5,B18,S
+202.0,0.0,3.0,"Goncalves, Mr. Manuel Estanislao",Male,38.0,0.0,0.0,3101305.0,7.05,B18,S
+203.0,0.0,1.0,"Campbell, Mr. William",Male,39.0,0.0,0.0,7634.0,53.2187,B18,C
+204.0,0.0,3.0,"Chang, Mr. Tse",Male,32.0,0.0,0.0,2696.0,7.225,B18,C
+205.0,0.0,2.0,"Loney, Mr. John William",Male,24.0,0.0,0.0,250643.0,11.5,B18,S
+206.0,0.0,3.0,"Yasbeck, Mr. Antoni",Male,27.0,0.0,0.0,2659.0,14.4542,B18,C
+207.0,0.0,2.0,"Everett, Miss. Frances Mabel""""",Female,42.0,0.0,0.0,28404.0,10.5,B18,S
+208.0,0.0,1.0,"Holverson, Mr. Alexander Oskar",Male,42.0,0.0,0.0,220990.0,26.55,B18,S
+209.0,0.0,3.0,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,42.0,0.0,0.0,220990.0,26.55,B18,S
+210.0,0.0,3.0,"Nysveen, Mr. Dwight Frederick",Male,27.0,0.0,0.0,351918.0,7.75,B18,S
+211.0,0.0,2.0,"Buchkovsky, Mr. Grigorios",Male,40.0,0.0,0.0,244367.0,13.0,B18,S
+212.0,0.0,2.0,"Courtnell, Mr. Bailey",Male,34.0,0.0,0.0,239853.0,21.0,B18,S
+213.0,0.0,2.0,"Rumbold, Mrs. George Edward (Ada Lucy Chard)",Female,42.0,0.0,0.0,7634.0,53.2187,B18,C
+214.0,0.0,3.0,"Pedersen, Mr. Nils",Male,40.0,0.0,0.0,345499.0,7.75,B18,S
+215.0,0.0,2.0,"Soholt, Mrs. Peter Andreas Lauritz Andersen (Juanita)",Female,19.0,0.0,0.0,348124.0,7.65,B18,S
+216.0,0.0,1.0,"Sagesser, Mrs. (Emma)",Female,33.2,0.0,0.0,7634.0,53.2187,B18,C
+217.0,0.0,3.0,"Sjostedt, Miss. Anna Sofia",Female,22.0,0.0,0.0,7634.0,9.8375,B18,S
+218.0,0.0,2.0,"Bidois, Master. Ernest Edward George",Male,13.200000000000001,0.0,0.0,259359.0,36.75,B18,S
+219.0,0.0,2.0,"Beall, Mr. James George",Male,42.0,0.0,0.0,2647.0,14.4542,B18,C
+220.0,0.0,1.0,"Hippach, Miss. Jane Anne",Female,16.0,0.0,0.0,111361.0,53.2187,B18,C
+221.0,0.0,2.0,"Baumann, Mr. John D.",Male,34.2,0.0,0.0,7634.0,29.175,B18,C
+222.0,0.0,2.0,"Wiseman, Mr. Philip",Male,41.0,0.0,0.0,248701.0,13.0,B18,S
+223.0,0.0,2.0,"Clarke, Mrs. Charles V. (Ada Maria Winfield)",Female,24.0,0.0,0.0,250646.0,53.2187,B18,C
+224.0,0.0,2.0,"Phillips, Miss. Alice Frances Louisa",Female,21.0,0.0,0.0,7634.0,21.075,B18,S
+225.0,0.0,1.0,"Davies, Mr. Charles Henry",Male,42.0,0.0,0.0,112379.0,26.55,B18,S
+226.0,0.0,3.0,"Toufar, Mr. Petr",Male,42.0,0.0,0.0,8159.0,15.2458,B18,C
+227.0,0.0,1.0,"Latimer, Mr. Andrew George",Male,42.0,0.0,0.0,17461.0,7.0458,B18,S
+228.0,0.0,2.0,"Renyi, Mr. Izsak",Male,42.0,0.0,0.0,248747.0,8.05,B18,S
+229.0,0.0,3.0,"Compton, Miss. Sara Rebecca",Female,39.0,0.0,0.0,8171.0,21.6,B18,S
+230.0,0.0,2.0,"Stock, Mrs. Albert (Tmine Elise Delhasse)",Female,18.0,0.0,0.0,243847.0,18.0,B18,C
+231.0,0.0,2.0,"Harknett, Miss. Alice Paton",Female,28.0,0.0,0.0,250649.0,7.75,B18,S
+232.0,0.0,2.0,"Merkin, Mrs. Henry Sleight (Olive Ishbel Macalpine)",Female,42.0,0.0,0.0,248740.0,36.75,B18,S
+233.0,0.0,3.0,"Townsend, Mr. Solomon",Male,34.2,0.0,0.0,335097.0,7.8958,B18,Q
+234.0,0.0,2.0,"Duran Y More, Mr. Florencio",Male,35.0,0.0,0.0,54373.0,6.425,B18,S
+235.0,0.0,3.0,"Meo, Mr. Alonsol",Male,34.2,0.0,0.0,7539.0,8.05,B18,S
+236.0,0.0,2.0,"Lahtinen, Mrs. William (Anna Sylfelt)",Female,28.4,0.0,0.0,250649.0,26.0,B18,S
+237.0,0.0,3.0,"Mamee, Mr. Hanne",Male,38.8,0.0,0.0,7534.0,9.5,B18,S
+238.0,0.0,2.0,"Metcalfe, Mr. Thomas",Male,28.4,0.0,0.0,243864.0,13.0,B18,S
+239.0,0.0,3.0,"Wilson, Miss. Helen Melville",Female,38.8,0.0,0.0,16966.0,15.55,B18,S
+240.0,0.0,1.0,"Snyder, Mrs. John Pillsbury (Nelle Cecilia Graham)",Female,31.2,0.0,0.0,7634.0,53.2187,C45,C
+241.0,0.0,3.0,"Saad, Mr. Khalil",Male,30.2,0.0,0.0,2659.0,7.2292,B18,C
+242.0,0.0,2.0,"Bracken, Mr. James H.",Male,25.4,0.0,0.0,248725.0,0.0,B18,S
+243.0,0.0,3.0,"Green, Mr. Henry",Male,25.4,0.0,0.0,52582.0,8.05,B18,S
+244.0,0.0,2.0,"Nasser, Mr. Nicolas",Male,42.0,0.0,0.0,237735.0,26.55,B18,C
+245.0,0.0,3.0,"Hutchinson, Mrs. (Heikki Henrikki Lindqvist)",Female,32.4,0.0,0.0,3101298.0,21.075,B18,S
+246.0,0.0,3.0,"Moor, Master. Meier",Male,25.4,0.0,0.0,392096.0,12.2875,B18,S
+247.0,0.0,2.0,"Sjostedt, Mr. Erik Gustaf",Male,42.0,0.0,0.0,7634.0,8.05,B18,S
+248.0,0.0,2.0,"Laroche, Mrs. Joseph (Francoise Gouffé)",Female,42.0,0.0,0.0,7634.0,41.5792,B18,C
+249.0,0.0,3.0,"Deming, Mrs. William Karl (Madeline Emma Mellinger)",Female,38.0,0.0,0.0,230433.0,21.075,B18,S
+250.0,0.0,1.0,"Bidois, Mr. Gustave",Male,42.0,0.0,0.0,17439.0,53.2187,B18,C
+251.0,0.0,2.0,"Gale, Mr. Shadrach",Male,25.4,0.0,0.0,244310.0,21.0,B18,S
+252.0,0.0,1.0,"Harrison, Mrs. William (Cmary Elise Cariill Peuchen)",Female,42.0,0.0,0.0,7634.0,53.2187,C94,C
+253.0,0.0,2.0,"Phillips, Mr. Giles",Male,25.4,0.0,0.0,248701.0,13.0,B18,S
+254.0,0.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",Male,42.0,0.0,0.0,27042.0,30.0,B18,S
+255.0,0.0,3.0,"Andersson, Master. Karl Johan",Male,13.200000000000001,0.0,0.0,347082.0,31.275,B18,S
+256.0,0.0,2.0,"Omont, Mr. Alfred Fernand",Male,25.4,0.0,0.0,248735.0,15.85,B18,S
+257.0,0.0,3.0,"Moutal, Mr. Rahamin Haim",Male,30.2,0.0,0.0,374746.0,8.05,B18,S
+258.0,0.0,1.0,"Glover, Mr. Frederick Gordon",Male,25.4,0.0,0.0,22912.0,30.0,B18,C
+259.0,0.0,3.0,"Ahlin, Master. Erik Gustaf Sixten",Male,30.2,0.0,0.0,7546.0,9.35,B18,S
+260.0,0.0,3.0,"Petranyi, Mr. Matula",Male,32.6,0.0,0.0,8159.0,8.6625,B18,S
+261.0,0.0,2.0,"Givard, Mr. Hans Kristensen",Male,32.0,0.0,0.0,250646.0,13.0,B18,S
+262.0,0.0,3.0,"Kalvik, Mrs. Johannes Halvorsen (Gunhild Swedensdatter Andersdotter Ulveseth)",Female,29.0,0.0,0.0,8159.0,21.0792,B18,S
+263.0,0.0,3.0,"Strandberg, Mr. Isidor",Male,30.2,0.0,0.0,7533.0,7.7458,B18,S
+264.0,0.0,2.0,"Skoog, Mr. Wilhelm",Male,21.4,0.0,0.0,347088.0,27.9,B18,S
+265.0,0.0,3.0,"Flick, Miss. Gilda",Female,26.6,0.0,0.0,8520.0,8.05,B18,S
+266.0,0.0,3.0,"Pavletic, Mr. Stepa",Male,33.0,0.0,0.0,315091.0,8.6625,B18,S
+267.0,0.0,1.0,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,37.4,0.0,0.0,113572.0,53.2187,B18,C
+268.0,0.0,3.0,"Larsson-Ionoff, Mr. Bengt",Male,26.6,0.0,0.0,349912.0,7.775,B18,S
+269.0,0.0,1.0,"Beckwith, Mr. Richard Leonard",Male,37.0,0.0,0.0,11751.0,52.55,B18,S
+270.0,0.0,3.0,"Soholt, Master. Ludvig Teodor Andersen",Male,13.200000000000001,0.0,0.0,348124.0,7.65,B18,S
+271.0,0.0,2.0,"Lefevre, Miss. Frances",Female,23.4,0.0,0.0,250650.0,15.85,B18,C
+272.0,0.0,3.0,"Williams, Mr. Leslie",Male,26.6,0.0,0.0,54636.0,16.1,B18,S
+273.0,0.0,1.0,"Ford, Mrs. Edward (Margaret Ann Burns)",Female,42.0,0.0,0.0,7634.0,53.2187,B18,C
+274.0,0.0,3.0,"Collectanea, Mr.",Male,26.6,0.0,0.0,999.0,7.8292,B18,C
+275.0,0.0,2.0,"Larsson, Mr. August Erik",Male,29.0,0.0,0.0,250646.0,7.75,B18,S
+276.0,0.0,3.0,"Gustafsson, Mr. Karl Gideon",Male,22.4,0.0,0.0,7534.0,9.6458,B18,S
+277.0,0.0,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,22.4,0.0,0.0,7546.0,9.35,B18,S
+278.0,0.0,2.0,"Slayter, Mr. Houghton William",Male,23.4,0.0,0.0,250650.0,15.85,B18,C
+279.0,0.0,1.0,"Widener, Mr. Harry Elkins",Male,27.0,0.0,0.0,113503.0,53.2187,C92,C
+280.0,0.0,2.0,"Dennis, Mr. Samuel",Male,30.0,0.0,0.0,244358.0,13.0,B18,S
+281.0,0.0,1.0,"Dodge, Dr. Washington",Male,42.0,0.0,0.0,33638.0,53.2187,A34,S
+282.0,0.0,2.0,"Robinson, Mrs. Bernard Cann (Elizabeth Jane Lizzy"" Catherine Ford)""",Female,42.0,0.0,0.0,7634.0,53.2187,B18,C
+283.0,0.0,2.0,"Turtle, Mr. William Henry",Male,36.0,0.0,0.0,7634.0,15.85,B18,C
+284.0,0.0,3.0,"Niskanen, Mr. Juha",Male,22.0,0.0,0.0,7634.0,7.925,B18,S
+285.0,0.0,1.0,"Beresford, Mrs. (Olive Clara Johnstone Campbell)",Female,35.8,0.0,0.0,11758.0,53.2187,B18,C
+286.0,0.0,1.0,"Sutton, Mr. Frederick",Male,35.6,0.0,0.0,23142.0,53.2187,B18,C
+287.0,0.0,2.0,"Laroche, Miss. Simone Marie Anne Andree",Female,13.200000000000001,0.0,0.0,7634.0,41.5792,B18,C
+288.0,0.0,3.0,"Ernoff, Mr. Iosip",Male,22.4,0.0,0.0,349208.0,7.8958,B18,S
+289.0,0.0,1.0,"Dodge, Master. Washington",Male,13.200000000000001,0.0,0.0,33638.0,53.2187,A34,S
+290.0,0.0,3.0,"Ware, Mr. William Jeffery",Male,22.4,0.0,0.0,28404.0,21.075,B18,S
+291.0,0.0,1.0,"Widener, Mrs. George Dunton (Eleanor Elkins)",Female,42.0,0.0,0.0,113503.0,53.2187,B18,C
+292.0,0.0,2.0,"Keane, Mr. Daniel",Male,22.4,0.0,0.0,12460.0,8.3625,B18,S
+293.0,0.0,1.0,"Payne, Mr. Vivian Ponsonby",Male,35.6,0.0,0.0,12749.0,53.2187,B18,C
+294.0,0.0,3.0,"Ware, Mr. Frederick",Male,22.4,0.0,0.0,28406.0,8.6625,B18,C
+295.0,0.0,2.0,"Oxenham, Mr. Percy Frederick",Male,22.4,0.0,0.0,506.0,21.0,B18,S
+296.0,0.0,3.0,"Foley, Mr. William",Male,22.4,0.0,0.0,365235.0,7.75,B18,S
+297.0,0.0,1.0,"Sharp, Mr. Percival James Ridgway",Male,27.0,0.0,0.0,7634.0,27.75,D35,C
+298.0,0.0,2.0,"Beane, Mr. Edward",Male,24.0,0.0,0.0,244361.0,26.0,B18,S
+299.0,0.0,2.0,"Earnshaw, Mrs. Benn (Olive Wheadon Thomas)",Female,23.0,0.0,0.0,6760.0,33.0,B18,S
+300.0,0.0,1.0,"Canfield, Mrs. Madison (Elizabeth Whitfield)",Female,30.8,0.0,0.0,7634.0,51.8625,D33,C
+301.0,0.0,3.0,"Reid, Mr. Alexander",Male,22.4,0.0,0.0,370365.0,7.75,B18,S
+302.0,0.0,2.0,"Parker, Mr. Clifford Richard",Male,24.8,0.0,0.0,7634.0,10.5,B18,C
+303.0,0.0,2.0,"Humble, Mr. George William",Male,27.6,0.0,0.0,250646.0,13.0,B18,S
+304.0,0.0,3.0,"Kraeff, Mr. Theodor",Male,22.4,0.0,0.0,349203.0,7.8958,B18,S
+305.0,0.0,1.0,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Female,22.4,0.0,0.0,17595.0,18.0,B18,C
+306.0,0.0,3.0,"Larsson, Miss. Elin Matilda Maria",Female,15.0,0.0,0.0,250434.0,7.75,B18,S
+307.0,0.0,2.0,"Shanahan, Mr. John Dalton",Male,22.4,0.0,0.0,363265.0,12.3,B18,S
+308.0,0.0,1.0,"Widener, Mr. George Dunton",Male,42.0,0.0,0.0,113503.0,53.2187,B18,C
+309.0,0.0,3.0,"Lobb, Miss. Cordelia K",Female,22.4,0.0,0.0,250651.0,24.0,B18,S
+310.0,0.0,2.0,"Kendall, Mr. Edward Augustus",Male,22.4,0.0,0.0,228244.0,13.0,B18,S
+311.0,0.0,1.0,"Newell, Miss. Marjorie",Female,23.0,0.0,0.0,35273.0,53.2187,B18,C
+312.0,0.0,1.0,"Gee, Mr. Chi Po",Male,36.4,0.0,0.0,7634.0,29.875,C97,C
+313.0,0.0,2.0,"Fry, Mr. Richard",Male,22.4,0.0,0.0,112905.0,8.05,B18,S
+314.0,0.0,2.0,"Futrelle, Mr. Jacques Heath",Male,37.0,0.0,0.0,113803.0,53.1,C123,S
+315.0,0.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",Male,42.0,0.0,0.0,27042.0,30.0,B18,S
+316.0,0.0,2.0,"Toufik, Mr. Noureddine",Male,22.4,0.0,0.0,2627.0,14.4583,B18,C
+317.0,0.0,3.0,"Richards, Mrs. Sidney (Emily Samuel)",Female,24.0,0.0,0.0,7634.0,18.75,B18,S
+318.0,0.0,1.0,"Fortune, Mr. Mark",Male,42.0,0.0,0.0,19950.0,53.2187,B18,C
+319.0,0.0,2.0,"Elsbury, Mr. William James",Male,27.4,0.0,0.0,237442.0,21.0,B18,S
+320.0,0.0,1.0,"Ristola, Mrs. Juha (Maria Josefina Pekkola)",Female,39.8,0.0,0.0,7634.0,53.2187,B18,C
+321.0,0.0,3.0,"Williams, Mr. Richard",Male,22.4,0.0,0.0,16966.0,15.55,B18,S
+322.0,0.0,2.0,"Lahtinen, Mr. William",Male,22.4,0.0,0.0,250649.0,26.0,B18,S
+323.0,0.0,1.0,"Steely, Mr. William Henry",Male,22.4,0.0,0.0,112051.0,26.0,B18,S
+324.0,0.0,3.0,"Desvernine, Mr. Isidor",Male,22.4,0.0,0.0,335097.0,8.6625,B18,S
+325.0,0.0,2.0,"Coleff, Mr. Satio",Male,22.4,0.0,0.0,50379.0,21.0,B18,S
+326.0,0.0,1.0,"Lindstrom, Mr. Fredrik",Male,36.0,0.0,0.0,17358.0,53.2187,B18,S
+327.0,0.0,3.0,"Tomlin, Mr. Ernest Portage",Female,30.0,0.0,0.0,364500.0,12.475,B18,S
+328.0,0.0,2.0,"Edvardsson, Mr. Gustaf Albin",Male,22.4,0.0,0.0,246414.0,5.0,B18,S
+329.0,0.0,2.0,"Bresson, Mr. Arthur",Male,22.4,0.0,0.0,360154.0,0.0,B18,S
+330.0,0.0,2.0,"Whabee, Mrs. George Joseph (Julia)",Female,24.8,0.0,0.0,7634.0,15.55,B18,C
+331.0,0.0,3.0,"Kalvik, Master. Harald Nils Reiersen",Male,13.200000000000001,0.0,0.0,8159.0,21.0792,B18,S
+332.0,0.0,1.0,"Alexander, Mr. William Thomas",Male,28.0,0.0,0.0,220497.0,26.55,B18,C
+333.0,0.0,3.0,"Lobb, Mr. William Arthur",Male,22.4,0.0,0.0,250651.0,24.0,B18,S
+334.0,0.0,2.0,"Collyer, Mr. Harvey",Male,22.4,0.0,0.0,540861.0,21.0,B18,S
+335.0,0.0,1.0,"Duran Y More, Mr. Florencio",Male,22.4,0.0,0.0,54373.0,27.7208,B18,C
+336.0,0.0,3.0,"Riordan, Miss. Hannah",Female,22.4,0.0,0.0,334912.0,18.75,B18,Q
+337.0,0.0,1.0,"Backstrom, Mr. Karl Alfred",Male,32.0,0.0,0.0,7635.0,27.7292,B18,C
+338.0,0.0,1.0,"Coleridge, Mr. Reginald Charles",Male,30.0,0.0,0.0,7634.0,27.75,B18,C
+339.0,0.0,3.0,"Sage, Mr. Douglas Bullen",Male,38.0,0.0,0.0,7634.0,53.2187,B18,S
+340.0,0.0,2.0,"Weisz, Dr. Frantisek",Male,32.8,0.0,0.0,7634.0,36.75,B18,C
+341.0,0.0,1.0,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,22.4,0.0,0.0,220990.0,26.55,B18,S
+342.0,0.0,2.0,"Thompson, Mrs. William Frederick (Eve Saunders)",Female,23.6,0.0,0.0,243847.0,27.75,B18,S
+343.0,0.0,1.0,"Bresson, Mr. Henri",Male,38.0,0.0,0.0,7634.0,53.2187,B18,C
+344.0,0.0,3.0,"Linnell, Mr. Frank",Male,22.6,0.0,0.0,7634.0,7.75,B18,C
+345.0,0.0,2.0,"Watt, Mrs. James (Elizabeth Bessie"" Inglis Milne)""",Female,24.0,0.0,0.0,9068.0,36.0,B18,S
+346.0,0.0,1.0,"Colley, Mr. Edward Pomeroy",Male,31.4,0.0,0.0,5727.0,50.4625,E45,S
+347.0,0.0,1.0,"Campbell, Mrs. William (Olive Isobel Sheridan)",Female,31.0,0.0,0.0,113572.0,53.2187,C58,S
+348.0,0.0,2.0,"Carlsson, Mr. August Sigfrid",Male,28.0,0.0,0.0,237442.0,21.0,B18,S
+349.0,0.0,1.0,"Peuchen, Major. Arthur Godfrey",Male,42.0,0.0,0.0,113776.0,30.5,C104,C
+350.0,0.0,3.0,"Hoag, Mr. John Bernard",Male,29.8,0.0,0.0,27360.0,18.75,B18,S
+351.0,0.0,1.0,"Collett, Mr. Sidney Stuert",Male,24.0,0.0,0.0,17475.0,27.75,B18,C
+352.0,0.0,3.0,"Lindqvist, Mr. Eino William",Male,36.0,0.0,0.0,17358.0,53.2187,B18,S
+353.0,0.0,2.0,"Bacon, Mr. Frederick Thomas",Male,21.0,0.0,0.0,247734.0,21.0,B18,S
+354.0,0.0,3.0,"Ward, Miss. Anna",Female,28.2,0.0,0.0,350434.0,7.7417,B18,S
+355.0,0.0,1.0,"Carrau, Mrs. (Francisco M Locatelli)",Female,28.2,0.0,0.0,17477.0,53.2187,B18,C
+356.0,0.0,3.0,"Ilett, Miss. Bertha",Female,31.4,0.0,0.0,7634.0,27.75,B18,S
+357.0,0.0,3.0,"Nilsson, Master. Bertil",Male,29.8,0.0,0.0,347066.0,21.075,B18,S
+358.0,0.0,1.0,"Laxton, Mr. Henry",Male,29.8,0.0,0.0,219343.0,26.55,B18,S
+359.0,0.0,1.0,"Bresson, Mrs. (Florence)",Female,39.0,0.0,0.0,7634.0,53.2187,B18,C
+360.0,0.0,3.0,"Wilson, Miss. Helen Melville",Female,28.2,0.0,0.0,16966.0,15.55,B18,S
+361.0,0.0,2.0,"Leitch, Miss. Jessie Wills",Female,30.6,0.0,0.0,248727.0,26.0,B18,S
+362.0,0.0,2.0,"Kenyon, Mr. Frederick R.",Male,30.6,0.0,0.0,236854.0,26.0,B18,S
+363.0,0.0,2.0,"Sjostedt, Mr. Erik Gustaf",Male,29.2,0.0,0.0,7634.0,8.05,B18,S
+364.0,0.0,1.0,"Compton, Miss. Sara Rebecca",Female,39.0,0.0,0.0,7634.0,53.2187,E45,C
+365.0,0.0,3.0,"Lobb, Master. William Arthur",Male,30.6,0.0,0.0,250651.0,24.0,B18,S
+366.0,0.0,2.0,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Female,30.6,0.0,0.0,540861.0,21.0,B18,S
+367.0,0.0,2.0,"Deming, Master. William Karl",Male,30.6,0.0,0.0,230433.0,21.075,B18,S
+368.0,0.0,2.0,"Sage, Miss. Dorothy Edith Dolly""""",Female,39.0,0.0,0.0,7634.0,53.2187,B18,S
+369.0,0.0,2.0,"Sjostedt, Miss. Tekla Maria",Female,29.2,0.0,0.0,7634.0,9.8375,B18,S
+370.0,0.0,3.0,"Strandberg, Master. Isidor",Male,27.2,0.0,0.0,7533.0,7.7458,B18,S
+371.0,0.0,1.0,"Layne, Mr. Joseph",Male,39.0,0.0,0.0,7634.0,53.2187,B18,C
+372.0,0.0,3.0,"Dahlberg, Miss. Gerda Ulrika",Female,22.0,0.0,0.0,7552.0,10.5164,B18,S
+373.0,0.0,1.0,"Campbell, Miss. Olive Isabel Sheridan",Female,31.0,0.0,0.0,113572.0,53.2187,C58,S
+374.0,0.0,1.0,"Compton, Mr. Algernon Edward Parr",Male,37.6,0.0,0.0,7634.0,53.2187,E45,C
+375.0,0.0,3.0,"Kink, Miss. Maria Catharina",Female,24.8,0.0,0.0,350367.0,24.15,B18,Q
+376.0,0.0,3.0,"Kalvik, Mrs. Johannes Halvorsen (Gunhild Swedensdatter Andersdotter Ulveseth)",Female,29.0,0.0,0.0,8159.0,21.0792,B18,S
+377.0,0.0,3.0,"Kalvik, Mrs. Johannes Halvorsen (Gunhild Swedensdatter Andersdotter Ulveseth)",Female,25.4,0.0,0.0,8159.0,21.0792,B18,S
+378.0,0.0,2.0,"Sollars, Miss. Gladys Eleanor",Female,24.8,0.0,0.0,2965.0,18.75,B18,S
+379.0,0.0,1.0,"Ovies, Mr. Samuelstand",Male,36.4,0.0,0.0,113788.0,35.5,B18,C
+380.0,0.0,3.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,24.8,0.0,0.0,248738.0,29.125,B18,S
+381.0,0.0,2.0,"Lindstrom, Mr. Erik Gustaf",Male,37.6,0.0,0.0,7634.0,53.2187,B18,C
+382.0,0.0,1.0,"Hippach, Mr. Louis Albert",Male,42.0,0.0,0.0,111361.0,53.2187,B18,C
+383.0,0.0,1.0,"Beavan, Mr. William Thomas",Male,24.8,0.0,0.0,2912.0,30.0,B18,C
+384.0,0.0,1.0,"Carter, Mrs. William Ernest (Lucile Polk Brown)",Female,37.6,0.0,0.0,113760.0,53.2187,B96 B98,C
+385.0,0.0,2.0,"Foley, Mrs. William",Female,24.8,0.0,0.0,365235.0,7.75,B18,S
+386.0,0.0,3.0,"Hagland, Mr. Ingvart Eriksson",Male,24.8,0.0,0.0,65304.0,19.9667,B18,S
+387.0,0.0,1.0,"Foley, Mr. Joseph",Male,24.8,0.0,0.0,113051.0,27.7292,B18,C
+388.0,0.0,3.0,"Hampe, Mr. Michael",Male,24.8,0.0,0.0,345769.0,7.75,B18,S
+389.0,0.0,3.0,"Pettersson, Mr. Johan Emil",Male,24.8,0.0,0.0,347081.0,7.75,B18,S
+390.0,0.0,3.0,"Gustafsson, Mr. Johan Birger",Male,24.8,0.0,0.0,7632.0,9.8458,B18,S
+391.0,0.0,3.0,"Nilsson, Master. Soren",Male,24.8,0.0,0.0,347090.0,21.075,B18,S
+392.0,0.0,1.0,"Lindroth, Mr. Fredrik Valentin",Male,31.0,0.0,0.0,7634.0,29.7,C99,C
+393.0,0.0,3.0,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Female,24.6,0.0,0.0,860.0,46.9,B18,S
+394.0,0.0,2.0,"Wheadon, Mrs. Edward H (Edith Celia Salter)",Female,32.2,0.0,0.0,113760.0,34.375,C99,C
+395.0,0.0,3.0,"Villesvik, Mr. Johan Henrik Sölvesön",Male,24.8,0.0,0.0,3101295.0,7.925,B18,S
+396.0,0.0,3.0,"Sylvan, Mr. Sigmund",Male,24.8,0.0,0.0,343120.0,7.65,B18,S
+397.0,0.0,2.0,"Rath, Mr. Henry",Male,25.0,0.0,0.0,243864.0,26.0,B18,S
+398.0,0.0,2.0,"Coleff, Mrs. Satio (Elin Matilda Wedin)",Female,24.8,0.0,0.0,50379.0,21.0,B18,S
+399.0,0.0,2.0,"Coleff, Miss. Ivanka",Female,24.8,0.0,0.0,50379.0,21.0,B18,S
+400.0,0.0,1.0,"Ford, Mr. Edward",Male,39.2,0.0,0.0,7634.0,53.2187,B18,C
+401.0,0.0,1.0,"Montvila, Rev. Juozas",Male,27.0,0.0,0.0,7634.0,13.0,B18,C
+402.0,0.0,3.0,"Keresztes, Mr. Florian",Male,24.8,0.0,0.0,228671.0,6.2375,B18,S
+403.0,0.0,3.0,"Niemi, Miss. Hannele Johanna",Female,24.8,0.0,0.0,3101295.0,7.925,B18,S
+404.0,0.0,2.0,"Rath, Mrs. Henry (Lillian Jane Asplund)",Female,24.4,0.0,0.0,243864.0,26.0,B18,S
+405.0,0.0,1.0,"Sutton, Mrs. Frederick (Alice Shelly)",Female,24.6,0.0,0.0,23142.0,53.2187,B18,C
+406.0,0.0,3.0,"Abrahim, Mrs. Joseph (Sophie Halaut Louc)",Female,24.0,0.0,0.0,2657.0,7.2292,B18,C
+407.0,0.0,3.0,"Abrahim, Master. Osman",Male,18.0,0.0,0.0,2657.0,7.2292,B18,C
+408.0,0.0,1.0,"Boulos, Mrs. Joseph (Emily Ruees Schreiner)",Female,31.8,0.0,0.0,7634.0,27.7208,B18,C
+409.0,0.0,3.0,"Riordan, Master. Michael",Male,24.8,0.0,0.0,334912.0,18.75,B18,Q
+410.0,0.0,2.0,"Marvin, Mr. Daniel Warner",Male,19.0,0.0,0.0,113773.0,26.55,B18,S
+411.0,0.0,3.0,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael)",Female,32.2,0.0,0.0,113773.0,26.55,B18,S
+412.0,0.0,1.0,"Silvey, Mrs. William Baird (Alice Munro Witherspoon)",Female,39.2,0.0,0.0,7634.0,53.2187,B18,C
+413.0,0.0,1.0,"Endres, Mr. Frank Anthony",Male,32.0,0.0,0.0,7634.0,26.0,B18,C
+414.0,0.0,3.0,"Gibson, Miss. Dorothy Winifred",Female,32.8,0.0,0.0,7634.0,20.2625,B18,S
+415.0,0.0,2.0,"Harris, Mr. Henry Birkhardt",Male,42.0,0.0,0.0,8154.0,53.2187,B18,S
+416.0,0.0,3.0,"Johanson, Mr. Erik",Male,24.8,0.0,0.0,3101296.0,7.6292,B18,S
+417.0,0.0,1.0,"Peuchen, Major. Arthur Godfrey",Male,42.0,0.0,0.0,113776.0,30.5,C104,C
+418.0,0.0,2.0,"Fortune, Miss. Alice Elizabeth",Female,24.0,0.0,0.0,19950.0,53.2187,B18,C
+419.0,0.0,3.0,"Dahl, Miss. Maureen",Female,24.8,0.0,0.0,347057.0,10.5164,B18,S
+420.0,0.0,2.0,"Coleridge, Miss. Elinor Cecelia",Female,31.0,0.0,0.0,7634.0,27.75,B18,C
+421.0,0.0,3.0,"Goncalves, Mr. Manuel Estanislao",Male,24.8,0.0,0.0,3101305.0,7.05,B18,S
+422.0,0.0,1.0,"Schiller, Mrs. Hermann (Sarah Lily Daniels)",Female,37.2,0.0,0.0,7634.0,51.862,B18,C
+423.0,0.0,3.0,"Lemberopolous, Mr. Peter L",Male,24.8,0.0,0.0,2683.0,6.4375,B18,C
+424.0,0.0,1.0,"Louch-Smith, Mr. Percival Samuel",Male,30.4,0.0,0.0,7634.0,27.7208,B18,C
+425.0,0.0,2.0,"Payne, Mr. Vivian Ponsonby",Male,23.8,0.0,0.0,12749.0,53.2187,B18,C
+426.0,0.0,2.0,"Collins, Miss. Ivy Jessie",Female,30.0,0.0,0.0,15271.0,21.0,B18,S
+427.0,0.0,1.0,"Backstrom, Master. Karl Alfred",Male,24.0,0.0,0.0,7635.0,27.7292,B18,C
+428.0,0.0,3.0,"Berglund, Mr. Karl Ivar",Male,28.6,0.0,0.0,7634.0,9.35,B18,S
+429.0,0.0,3.0,"Duran Y More, Miss. Asuncion",Female,27.0,0.0,0.0,7634.0,7.75,B18,C
+430.0,0.0,2.0,"Campbell, Mrs. Meritie (Eva Margaret Halaut Louc)",Female,24.8,0.0,0.0,113572.0,0.0,B18,C
+431.0,0.0,1.0,"Louch-Smith, Mrs. Percival Samuel (Edith Lily Shawyer)",Female,33.6,0.0,0.0,7634.0,27.7208,B18,C
+432.0,0.0,2.0,"Johnston, Miss. Margaret Alexis",Female,13.200000000000001,0.0,0.0,7634.0,23.45,B18,S
+433.0,0.0,3.0,"Madsen, Mr. Fridtjof Arne",Male,24.0,0.0,0.0,8379.0,7.75,B18,S
+434.0,0.0,1.0,"Schiller, Mr. Hermann",Male,26.0,0.0,0.0,7634.0,53.2187,B18,C
+435.0,0.0,3.0,"Lemberopolous, Mr. Peter L",Male,24.0,0.0,0.0,2683.0,6.4375,B18,C
+436.0,0.0,2.0,"Lefevre, Mrs. Jean Emile (Frances)",Female,42.0,0.0,0.0,250650.0,15.85,B18,C
+437.0,0.0,3.0,"Lund, Mr. Andreas",Male,24.0,0.0,0.0,349225.0,7.8542,B18,S
+438.0,0.0,3.0,"Larsson, Mr. Algot",Male,24.0,0.0,0.0,7554.0,9.4833,B18,S
+439.0,0.0,3.0,"Gustafsson, Mrs. Gideon (Maria Eriksson Andersson)",Female,17.8,0.0,0.0,7634.0,9.6458,B18,S
+440.0,0.0,3.0,"Gustafsson, Mr. Karl Gideon",Male,17.8,0.0,0.0,7634.0,9.6458,B18,S
+441.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,17.8,0.0,0.0,7634.0,9.6458,B18,S
+442.0,0.0,3.0,"Malinin, Mr. Olli Henrik",Male,25.6,0.0,0.0,7634.0,7.925,B18,S
+443.0,0.0,3.0,"Karaic, Mrs. Milan (Marija Marjanovic)",Female,23.0,0.0,0.0,349246.0,7.8542,B18,S
+444.0,0.0,1.0,"Culm, Mr. Sidney",Male,21.8,0.0,0.0,7634.0,26.0,B18,C
+445.0,0.0,2.0,"Culm, Miss. Tilly",Female,21.8,0.0,0.0,7634.0,26.0,B18,C
+446.0,0.0,3.0,"Lund, Miss. Petrine Jakobina Gustafsdatter",Female,17.0,0.0,0.0,7633.0,21.5792,B18,S
+447.0,0.0,2.0,"Renyi, Miss. Ivette",Female,20.0,0.0,0.0,248747.0,8.05,B18,S
+448.0,0.0,2.0,"Helmy, Mr. Albert Allial Din",Male,21.4,0.0,0.0,244695.0,19.2583,B18,C
+449.0,0.0,2.0,"Elsbury, Miss. Annie",Female,21.4,0.0,0.0,237442.0,21.0,B18,S
+450.0,0.0,3.0,"Kink-Heilmann, Mrs. Ante (Maria Katarina G.Винтер)",Female,21.4,0.0,0.0,350367.0,24.15,B18,Q
+451.0,0.0,2.0,"Eddystone, Mr. Joseph Edward",Male,16.0,0.0,0.0,248731.0,0.0,B18,S
+452.0,0.0,3.0,"Larsson-Ionoff, Mr. Bengt",Male,21.4,0.0,0.0,349912.0,7.775,B18,S
+453.0,0.0,1.0,"Faunthorpe, Mr. Everett",Male,24.4,0.0,0.0,7634.0,25.7417,B18,C
+454.0,0.0,1.0,"Ostby, Mr. Engelhart Cornelius",Male,23.0,0.0,0.0,7634.0,27.7208,B18,C
+455.0,0.0,1.0,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,42.0,0.0,0.0,111361.0,53.2187,B18,C
+456.0,0.0,1.0,"Lehmann, Miss. Berthe",Female,21.8,0.0,0.0,7634.0,12.2292,B18,C
+457.0,0.0,2.0,"Sage, Mr. Douglas Bullen",Male,41.6,0.0,0.0,7634.0,53.2187,B18,S
+458.0,0.0,2.0,"Sage, Miss. Dorothy Edith Dolly""""",Female,41.6,0.0,0.0,7634.0,53.2187,B18,S
+459.0,0.0,1.0,"Logane, Mr. Philip Edmond",Male,23.2,0.0,0.0,7634.0,26.0,B18,C
+460.0,0.0,3.0,"Lund, Master. Nils Levin",Male,13.200000000000001,0.0,0.0,7633.0,21.5792,B18,S
+461.0,0.0,3.0,"Gustafsson, Mrs. Gideon (Maria Eriksson Andersson)",Female,20.2,0.0,0.0,7634.0,9.6458,B18,S
+462.0,0.0,3.0,"Boulos, Mrs. Joseph (Emily Ruees Schreiner)",Female,23.6,0.0,0.0,7634.0,27.7208,B18,C
+463.0,0.0,3.0,"Pettersson, Mr. J. Hollis",Male,21.4,0.0,0.0,7540.0,9.4833,B18,S
+464.0,0.0,3.0,"Gustafsson, Miss. Greta Svensson",Female,16.2,0.0,0.0,7644.0,9.35,B18,S
+465.0,0.0,3.0,"Riordan, Miss. Hannah",Female,21.4,0.0,0.0,334912.0,18.75,B18,Q
+466.0,0.0,3.0,"Duran Y More, Mr. Florencio",Male,26.0,0.0,0.0,7634.0,7.75,B18,C
+467.0,0.0,3.0,"Moen, Mr. Sigurd Hansen",Male,21.4,0.0,0.0,348123.0,7.75,B18,S
+468.0,0.0,1.0,"Louch-Smith, Mr. Percival Samuel",Male,23.6,0.0,0.0,7634.0,27.7208,B18,C
+469.0,0.0,1.0,"Montvila, Rev. Juozas",Male,27.0,0.0,0.0,7634.0,13.0,B18,C
+470.0,0.0,1.0,"Ostenfeld, Mr. Engelhart Cornelius",Male,23.0,0.0,0.0,7634.0,27.7208,B18,C
+471.0,0.0,3.0,"Larsson, Mr. Algot",Male,21.4,0.0,0.0,7554.0,9.4833,B18,S
+472.0,0.0,1.0,"Faunthorpe, Mr. Everett",Male,23.6,0.0,0.0,7634.0,25.7417,B18,C
+473.0,0.0,3.0,"Lund, Mr. Tore",Male,16.2,0.0,0.0,7633.0,9.35,B18,S
+474.0,0.0,1.0,"Boulos, Mr. Khalil",Male,42.0,0.0,0.0,2674.0,7.2292,B18,C
+475.0,0.0,3.0,"Osbakk, Mrs. Göte A. (Gertrud Wulff Klementine Edina Ostby)",Female,21.4,0.0,0.0,7534.0,21.6,B18,S
+476.0,0.0,3.0,"Johansson, Mr. Nils",Male,21.4,0.0,0.0,7540.0,7.75,B18,S
+477.0,0.0,1.0,"Madsen, Mr. Fridtjof Arne",Male,27.4,0.0,0.0,7634.0,26.0,B18,C
+478.0,0.0,3.0,"Madsen, Miss. Frigga Elida",Female,21.4,0.0,0.0,8379.0,21.075,B18,S
+479.0,0.0,2.0,"Richards, Mrs. Martin William (Emily Hocking)",Female,42.0,0.0,0.0,29103.0,13.0,B18,S
+480.0,0.0,2.0,"Sage, Miss. Stella Anna",Female,41.0,0.0,0.0,7634.0,53.2187,B18,S
+481.0,0.0,3.0,"Johansson, Mr. Nils",Male,21.4,0.0,0.0,7540.0,7.75,B18,S
+482.0,0.0,3.0,"Saade, Mrs. Nicholas (Adele Achem)",Female,24.4,0.0,0.0,2699.0,7.25,B18,C
+483.0,0.0,3.0,"Petchey, Mr. Harry Parkinson",Male,41.8,0.0,0.0,7634.0,0.0,B18,S
+484.0,0.0,3.0,"Jansen, Mr. Evert",Male,21.4,0.0,0.0,345778.0,9.0,B18,S
+485.0,0.0,3.0,"Kink, Mrs. (Maria) Winna Saskia Lobb",Female,30.0,0.0,0.0,350367.0,24.15,B18,Q
+486.0,0.0,1.0,"Bresson, Mr. Arthur",Male,42.0,0.0,0.0,7634.0,53.2187,B18,C
+487.0,0.0,3.0,"Ström, Miss. Telma Matilda",Female,21.4,0.0,0.0,347054.0,7.75,B18,S
+488.0,0.0,3.0,"Johanson, Mr. Gustaf Eric",Male,21.4,0.0,0.0,3101296.0,7.6292,B18,S
+489.0,0.0,2.0,"Waelens, Mr. Achille",Male,19.2,0.0,0.0,248731.0,13.0,B18,S
+490.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,16.2,0.0,0.0,7634.0,9.6458,B18,S
+491.0,0.0,1.0,"Crosby, Capt. Edward Gifford",Male,42.0,0.0,0.0,7634.0,53.2187,B18,C
+492.0,0.0,3.0,"Sahakyan, Mr. Oughnes",Male,37.0,0.0,0.0,2669.0,14.4542,B18,C
+493.0,0.0,3.0,"Johansson, Mr. Erik",Male,21.8,0.0,0.0,350033.0,7.75,B18,S
+494.0,0.0,1.0,"Beresford, Mr. (Montague Alder Rowbotham)",Male,33.8,0.0,0.0,11758.0,53.2187,B18,C
+495.0,0.0,1.0,"Holverson, Mr. Alexander Oskar",Male,42.0,0.0,0.0,220990.0,26.55,B18,S
+496.0,0.0,3.0,"Kallberg, Mr. Henrik Nils",Male,30.0,0.0,0.0,7544.0,8.3625,B18,S
+497.0,0.0,1.0,"Beresford, Mrs. (Olive Clara Johnstone Campbell)",Female,33.8,0.0,0.0,11758.0,53.2187,B18,C
+498.0,0.0,2.0,"Coleff, Miss. Ivanka",Female,36.6,0.0,0.0,7634.0,10.5,B18,C
+499.0,0.0,2.0,"Waelens, Mr. Achille",Male,31.8,0.0,0.0,248731.0,13.0,B18,S
+500.0,0.0,2.0,"Hocking, Mrs. Samuel George (Elizabeth Lizzie"" Anne Faunthorpe)""",Female,42.0,0.0,0.0,29105.0,23.0,B18,S
+501.0,0.0,2.0,"Hocking, Mr. Samuel George",Male,42.0,0.0,0.0,29104.0,26.0,B18,S
+502.0,0.0,2.0,"Hocking, Miss. Ellen Nellie""""",Female,14.0,0.0,0.0,29103.0,23.0,B18,S
+503.0,0.0,2.0,"Hocking, Miss. Clementine",Female,15.0,0.0,0.0,29103.0,23.0,B18,S
+504.0,0.0,3.0,"Jansen, Mr. Carl",Male,30.0,0.0,0.0,345779.0,9.0,B18,S
+505.0,0.0,2.0,"Hocking, Mr. Bertram",Male,26.0,0.0,0.0,29104.0,26.0,B18,S
+506.0,0.0,2.0,"Riordan, Miss. Hannah",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+507.0,0.0,3.0,"Saade, Mr. Jean",Male,37.0,0.0,0.0,2697.0,7.2292,B18,C
+508.0,0.0,3.0,"Kullberg, Mr. Henrik Nils",Male,30.0,0.0,0.0,7544.0,8.3625,B18,S
+509.0,0.0,1.0,"Sahakyan, Mr. Oughnes",Male,37.0,0.0,0.0,2669.0,7.2292,B18,C
+510.0,0.0,3.0,"Birkeland, Mr. Hans Martin",Male,28.8,0.0,0.0,7661.0,9.2167,B18,S
+511.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+512.0,0.0,1.0,"Conroy, Mrs. (Rose)",Female,41.8,0.0,0.0,7634.0,53.2187,B18,C
+513.0,0.0,3.0,"Svensson, Mr. Johan Cervin",Male,30.0,0.0,0.0,7538.0,8.05,B18,S
+514.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+515.0,0.0,3.0,"Gustafsson, Mr. Karl Gideon",Male,28.8,0.0,0.0,7634.0,9.6458,B18,S
+516.0,0.0,3.0,"Nordstrom, Miss. Petra Josefina",Female,30.0,0.0,0.0,345237.0,7.6625,B18,S
+517.0,0.0,2.0,"Johansson, Mr. Carl",Male,29.0,0.0,0.0,350033.0,7.75,B18,S
+518.0,0.0,1.0,"Beresford, Mrs. (Olive Clara Johnstone Campbell)",Female,33.8,0.0,0.0,11758.0,53.2187,B18,C
+519.0,0.0,3.0,"Dahl, Mr. Karl Edwart",Male,28.8,0.0,0.0,7598.0,9.35,B18,S
+520.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+521.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,27.6,0.0,0.0,7634.0,7.8542,B18,S
+522.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+523.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+524.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+525.0,0.0,1.0,"Widener, Mr. George Dunton",Male,36.2,0.0,0.0,113503.0,53.2187,B18,C
+526.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+527.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.0,0.0,0.0,7540.0,7.75,B18,S
+528.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+529.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+530.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,27.6,0.0,0.0,7634.0,7.8542,B18,S
+531.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+532.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+533.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+534.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+535.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+536.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+537.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.0,0.0,0.0,7540.0,7.75,B18,S
+538.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+539.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+540.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,27.6,0.0,0.0,7634.0,7.8542,B18,S
+541.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+542.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+543.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+544.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+545.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+546.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+547.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.0,0.0,0.0,7540.0,7.75,B18,S
+548.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+549.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+550.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+551.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+552.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+553.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+554.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+555.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+556.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+557.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+558.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+559.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+560.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+561.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+562.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+563.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+564.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+565.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+566.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+567.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+568.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+569.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+570.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+571.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+572.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+573.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+574.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+575.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+576.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+577.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+578.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+579.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+580.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+581.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+582.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+583.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+584.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+585.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+586.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+587.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+588.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+589.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+590.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+591.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+592.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+593.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+594.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+595.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+596.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+597.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+598.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+599.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+600.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+601.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+602.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+603.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+604.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+605.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+606.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+607.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+608.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+609.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+610.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+611.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+612.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+613.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+614.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+615.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+616.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+617.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+618.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+619.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+620.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+621.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+622.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+623.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+624.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+625.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+626.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+627.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+628.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+629.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+630.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+631.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+632.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+633.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+634.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+635.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+636.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+637.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+638.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+639.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+640.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+641.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+642.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+643.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+644.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+645.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+646.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+647.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+648.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+649.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+650.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+651.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+652.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.0,0.0,0.0,334912.0,18.75,B18,Q
+653.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.0,0.0,0.0,347068.0,7.75,B18,S
+654.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.0,0.0,0.0,347054.0,10.5164,B18,S
+655.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+656.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+657.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+658.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.0,0.0,0.0,8159.0,21.0792,B18,S
+659.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+660.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+661.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,28.8,0.0,0.0,7634.0,9.6458,B18,S
+662.0,0.0,3.0,"Riordan, Miss. Hannah",Female,34.0,0.0,0.0,334912.0,18.75,B18,Q
+663.0,0.0,3.0,"Sundman, Mr. Chester",Male,34.0,0.0,0.0,347068.0,7.75,B18,S
+664.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,34.0,0.0,0.0,347054.0,10.5164,B18,S
+665.0,0.0,1.0,"Widener, Mr. George Dunton",Male,33.8,0.0,0.0,113503.0,53.2187,B18,C
+666.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+667.0,0.0,3.0,"Johansson, Mr. Nils",Male,28.8,0.0,0.0,7540.0,7.75,B18,S
+668.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,34.0,0.0,0.0,8159.0,21.0792,B18,S
+669.0,0.0,3.0,"Johansson, Mr. Erik",Male,34.4,0.0,0.0,350033.0,7.75,B18,S
+670.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+671.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,29.6,0.0,0.0,7634.0,9.6458,B18,S
+672.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+673.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+674.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+675.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.6,0.0,0.0,113503.0,53.2187,B18,C
+676.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+677.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+678.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+679.0,0.0,3.0,"Johansson, Mr. Erik",Male,35.2,0.0,0.0,350033.0,7.75,B18,S
+680.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+681.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+682.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+683.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+684.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+685.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.6,0.0,0.0,113503.0,53.2187,B18,C
+686.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+687.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+688.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+689.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+690.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,28.4,0.0,0.0,7634.0,7.8542,B18,S
+691.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+692.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+693.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+694.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+695.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+696.0,0.0,2.0,"Hocking, Mr. Albert",Male,33.4,0.0,0.0,29104.0,26.0,B18,S
+697.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+698.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+699.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+700.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+701.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+702.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+703.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+704.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+705.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+706.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+707.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+708.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+709.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+710.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+711.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+712.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+713.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+714.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+715.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+716.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+717.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+718.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+719.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+720.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+721.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+722.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+723.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+724.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+725.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+726.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+727.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+728.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+729.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+730.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+731.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+732.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+733.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+734.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+735.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+736.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+737.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+738.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+739.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+740.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+741.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+742.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+743.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+744.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+745.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+746.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+747.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+748.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+749.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+750.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+751.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+752.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+753.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+754.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+755.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+756.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+757.0,0.0,3.0,"Johansson, Mr. Nils",Male,30.8,0.0,0.0,7540.0,7.75,B18,S
+758.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+759.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+760.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+761.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+762.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+763.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+764.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+765.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+766.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+767.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+768.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+769.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+770.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+771.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+772.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+773.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+774.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+775.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+776.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+777.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+778.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+779.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+780.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+781.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+782.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+783.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+784.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+785.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+786.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+787.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+788.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+789.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+790.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+791.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+792.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+793.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+794.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+795.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+796.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+797.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+798.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+799.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+800.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+801.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+802.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+803.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+804.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+805.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+806.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+807.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+808.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+809.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+810.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+811.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+812.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+813.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+814.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+815.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+816.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+817.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+818.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+819.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+820.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+821.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+822.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+823.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+824.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+825.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+826.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+827.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+828.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+829.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+830.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+831.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+832.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+833.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+834.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+835.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+836.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+837.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+838.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+839.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+840.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+841.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+842.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+843.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+844.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+845.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+846.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+847.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+848.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+849.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+850.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+851.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+852.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+853.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+854.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+855.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+856.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+857.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+858.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+859.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+860.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+861.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+862.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+863.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+864.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+865.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+866.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+867.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+868.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+869.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+870.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+871.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+872.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+873.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+874.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+875.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+876.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+877.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+878.0,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",Male,30.8,0.0,0.0,8159.0,21.0792,B18,S
+879.0,0.0,3.0,"Johansson, Mr. Erik",Male,31.2,0.0,0.0,350033.0,7.75,B18,S
+880.0,0.0,3.0,"Andersen, Mr. Albert Karvin",Male,21.6,0.0,0.0,7634.0,7.8542,B18,S
+881.0,0.0,3.0,"Gustafsson, Miss. Margit Elin",Female,25.6,0.0,0.0,7634.0,9.6458,B18,S
+882.0,0.0,3.0,"Riordan, Miss. Hannah",Female,30.8,0.0,0.0,334912.0,18.75,B18,Q
+883.0,0.0,3.0,"Sundman, Mr. Chester",Male,30.8,0.0,0.0,347068.0,7.75,B18,S
+884.0,0.0,3.0,"Ström, Miss. Emma Selma",Female,30.8,0.0,0.0,347054.0,10.5164,B18,S
+885.0,0.0,1.0,"Widener, Mr. George Dunton",Male,30.8,0.0,0.0,113503.0,53.2187,B18,C
+886.0,0.0,2.0,"Hocking, Mr. Albert",Male,17.8,0.0,0.0,29104.0,26.0,B18,S
+887.0,0.0,3.0,"Johansson, Mr. Nils",Male,25.6,0.0,0.0,7540.0,7.75,B18,S
+888.0,0.0,3.0,"Montvila, Rev. Juozas",Male,27.0,0.0,0.0,7634.0,13.0,B18,C
+889.0,0.0,3.0,"Graham, Miss. Margaret Edith",Female,19.0,0.0,0.0,112379.0,26.55,B18,S
+890.0,0.0,1.0,"Johnston, Miss. Margaret Alexis",Female,13.200000000000001,0.0,0.0,7634.0,23.45,B18,S
+891.0,0.0,3.0,"Behr, Mr. Karl Howell",Male,26.0,0.0,0.0,111369.0,30.0,B18,C
